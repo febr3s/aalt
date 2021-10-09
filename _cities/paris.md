@@ -1,4 +1,0 @@
----
-title: París
-layout: city
----

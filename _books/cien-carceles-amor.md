@@ -1,19 +1,19 @@
 ---
 title: Cien cárceles de amor
-layout: book
-editorial: "Compañía Impresora"
+layout: post
+editorial: Compañía Impresora
 ciudad: Montevideo
 edicion: 1949 
 year:
-author: "Virginia Brindis de Salas"
+category: "Virginia Brindis de Salas"
 nacionalidad: Uruguay
-repositorio: "Autores UY"
+repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: cien_carceles_virginia_Morel.jpg
 descarga: https://ia801502.us.archive.org/2/items/cien-carceles-de-amor-virginia-brindis-de-salas/Cien%20c%C3%A1rceles%20de%20amor%20-%20Virginia%20Brindis%20de%20Salas.pdf
+periodo: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/16856042
 comprar: 
-periodo: "Siglo XX"
 ---
  
 

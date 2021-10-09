@@ -1,0 +1,4 @@
+---
+title: Alicante
+layout: city
+---

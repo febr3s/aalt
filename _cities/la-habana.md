@@ -1,5 +1,4 @@
 ---
-title: "La Habana"
+title: La Habana
 layout: city
-img: 
 ---

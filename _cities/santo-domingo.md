@@ -1,5 +1,4 @@
 ---
-title: "Santo Domingo"
+title: Santo Domingo
 layout: city
-img: 
 ---

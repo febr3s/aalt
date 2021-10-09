@@ -1,5 +1,4 @@
 ---
-title: Ciudad de México
+title: México
 layout: city
-img: 
 ---

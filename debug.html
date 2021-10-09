@@ -1,0 +1,35 @@
+---
+layout: page
+---
+
+# Para hacer arrays filtradas sin tanta vuelta
+
+All products:
+
+{% for author in site.author %}
+
+- {{ author.title }}
+
+{% endfor %}
+
+{% assign nacionalidad_desconocida = site.authors | where: "nacionalidad", "Desconocida" %}
+
+Kitchen products:
+
+{% for author in nacionalidad_desconocida %}
+
+- {{ author.title }}
+
+{% endfor %}
+
+# Para imprimir varios autores
+
+{% assign author = page.author | join: ' + ' %}
+{% for author in author %}
+{{- author -}}
+{% endfor %}
+
+# Para imprimir varios autores con link
+
+{% for author in page.author %}
+<a href="{{ site.baseurl }}/autoras/{{ author | slugify | url_encode }}" title="">{{ author }}</a> + {% endfor %}

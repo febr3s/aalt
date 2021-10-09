@@ -1,4 +1,4 @@
 ---
 layout: repository
-title: "Biblioteca Virtual Banco de la República"
+title: "Biblioteca Virtual del Banco de la República"
 ---

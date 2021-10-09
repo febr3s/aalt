@@ -1,0 +1,4 @@
+{% assign author = page.author | join: ' + ' %}
+{% for author in author %}
+{{- author -}}
+{% endfor %}

@@ -1,23 +1,21 @@
 ---
 title: Pregón de marimorena
-layout: book
-editorial: "Sociedad Cultural Editora Indoamericana"
+layout: post
+editorial: Sociedad Cultural Editora Indoamericana
 ciudad: Montevideo
 edicion: 1952
-year: 
-author: "Virginia Brindis de Salas"
+year:
+category: "Virginia Brindis de Salas"
 nacionalidad: Uruguay
-repositorio: "Autores UY"
+repositorio: Autores UY
 repurl: https://archive.org/details/autores
 img: pregon_marimorena_virginia_brindis_Morel.jpg
 descarga: https://ia601403.us.archive.org/7/items/pregon-de-marimorena-virginia-brindis-de-salas/Pregon%20De%20Marimorena%20-%20Virginia%20Brindis%20de%20Salas.pdf
+periodo: "Siglo XX"
 biblioteca: http://www.worldcat.org/oclc/1136895852
 comprar: 
-periodo: "Siglo XIX"
-feature: 
 ---
  
-
 La hora ciega a lps otros
 que viven del otro lado.
 Amigo, quítate la venda
