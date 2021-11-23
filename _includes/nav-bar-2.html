@@ -1,0 +1,19 @@
+<!--Nav Bar-->
+    <nav class="navBar">
+        <nav class="wrapper">
+            <div class="logo" >
+                <a href="{{ BASE_PATH }}/index.html"><img src="{{ BASE_PATH }}/img/logo.png" alt="MOREL" class="logo-img"></a>
+
+            </div>
+
+
+            <input type="checkbox" id="menu-toggle" />
+            <label for="menu-toggle" class="label-toggle"></label>
+            <ul>
+            {% assign mypages = site.pages | sort: "order" %}
+                {% for page in mypages %}
+                <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+              {% endfor %}
+            </ul>
+        </nav>
+    </nav>

@@ -1,15 +1,15 @@
 url:
 baseurl:
-title: MOREL
+title: AALT
 permalink: /:categories/:year/:month/:day/:title:output_ext
 BASE_PATH :
 
 post_limit:
 
 author : 
-  name : MOREL
-  site: https://morel.la
-  description : Metadatos de Obras para Repositorios Electrónicos Latinoamericanos impulsa la creación de archivos digitales autosustentables.
+  name : AALT
+  site: https://aalt.org
+  description : Afro-Latin American Literature in translation es un proyecto de promoción y traducción de obras afrolatinoamericanas
   image : avatar.png
   email : proyectomorel@gmail.com
   github : morelcoop

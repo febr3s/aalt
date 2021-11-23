@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nacion",
+				"nacionalidad_desconocida"
+			],
+			[
+				"morel",
+				"morelcoop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"to",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packacge control",
+				"Package Control: Enable Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/febres/Dev/AALT",
+		"/home/febres/Dev/AALT/_includes",
+		"/home/febres/Dev/AALT/_layouts",
+		"/home/febres/Dev/AALT/_sass"
+	],
+	"file_history":
+	[
+		"/home/febres/Dev/AALT/_config.yml",
+		"/home/febres/Dev/AALT/_includes/nav-bar.html",
+		"/home/febres/Dev/AALT/_posts/2021-10-08-post.md",
+		"/home/febres/Dev/AALT/css/styles.scss",
+		"/home/febres/Dev/AALT/_sass/main.scss",
+		"/home/febres/Dev/AALT/_layouts/default.html",
+		"/home/febres/Dev/AALT/_includes/nav-bar-2.html",
+		"/home/febres/Dev/AALT/_data/navigation.yml",
+		"/home/febres/Dev/AALT/_layouts/book.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora.html",
+		"/home/febres/Dev/AALT/_authors/debug.md",
+		"/home/febres/Dev/AALT/_includes/author_list.html",
+		"/home/febres/Dev/AALT/debug.html",
+		"/home/febres/Dev/AALT/_books/debug.md",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora-debug.html",
+		"/home/febres/Dev/AALT/_layouts/author_debug.html",
+		"/home/febres/Dev/AALT/_layouts/author-debug.html",
+		"/home/febres/Dev/AALT/_layouts/debug.html",
+		"/home/febres/Dev/AALT/_books/antologia-manuscritos.md",
+		"/home/febres/Dev/AALT/_books/debug-2.md",
+		"/home/febres/Dev/AALT/_posts/2017-01-02-my-first-post.md",
+		"/home/febres/Dev/AALT/_posts/2017-01-15-my-second-post.md",
+		"/home/febres/Dev/AALT/_posts/2017-02-08-my-third-post.md",
+		"/home/febres/Dev/AALT/_posts/2021-09-20-post.md",
+		"/home/febres/Dev/AALT/_posts/2021-09-22-post.md",
+		"/home/febres/Dev/AALT/_publishers/universidad-de-la-republica.md",
+		"/home/febres/Dev/AALT/_authors/candelario-obeso.md",
+		"/home/febres/Dev/AALT/_authors/juan-francisco-manzano.md",
+		"/home/febres/Dev/AALT/_repositories/european-libraries.md",
+		"/home/febres/Dev/AALT/_repositories/disciplinas-da-usp.md",
+		"/home/febres/Dev/AALT/_repositories/conocimiento-libre-repositorio-institucional.md",
+		"/home/febres/Dev/AALT/_repositories/community-texts.md",
+		"/home/febres/Dev/AALT/_repositories/centro-afrocolombiano-espiritualidad.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-virtual-banco-republica.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-virtual-agustinos.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-patrimonio-iberoamericano.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-nacional-de-colombia.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-digital-bogota.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-cervantes.md",
+		"/home/febres/Dev/AALT/_repositories/biblioteca-basica-colombiana.md",
+		"/home/febres/Dev/AALT/_repositories/american-libraries.md",
+		"/home/febres/Dev/AALT/_cities/debug.md",
+		"/home/febres/Dev/AALT/_cities/santo-domingo.md",
+		"/home/febres/Dev/AALT/_cities/bogota.md",
+		"/home/febres/Dev/AALT/_cities/alicante.md",
+		"/home/febres/Dev/AALT/_cities/cali.md",
+		"/home/febres/Dev/AALT/_cities/la-habana.md",
+		"/home/febres/Dev/AALT/_cities/mexico.md",
+		"/home/febres/Dev/AALT/_cities/montevideo.md",
+		"/home/febres/Dev/AALT/_cities/quito.md",
+		"/home/febres/Dev/AALT/_books/vivan-los-compañeros-carlos-arturo-truque.md",
+		"/home/febres/Dev/AALT/_books/tierra-mojada-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/tambores-noche-jorge-artel.md",
+		"/home/febres/Dev/AALT/_books/tambores-noche-jorge-artel-2.md",
+		"/home/febres/Dev/AALT/_books/senderos-ancestros-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/poesias-completas-placido.md",
+		"/home/febres/Dev/AALT/_books/poesía-escogida-romulo-bustos-aguirre-2.md",
+		"/home/febres/Dev/AALT/_books/poesía-escogida-romulo-bustos-aguirre.md",
+		"/home/febres/Dev/AALT/_books/no-give-up-man-2.md",
+		"/home/febres/Dev/AALT/_books/no-give-up-man.md",
+		"/home/febres/Dev/AALT/_books/negro-en-iberoamerica-nicomedes-santa-cruz-2.md",
+		"/home/febres/Dev/AALT/_books/negro-en-iberoamerica-nicomedes-santa-cruz.md",
+		"/home/febres/Dev/AALT/_books/matalaché-enrique-lopez-albujar-2.md",
+		"/home/febres/Dev/AALT/_books/matalaché-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/las-estrellas-son-negras-arnoldo-palacios-2.md",
+		"/home/febres/Dev/AALT/_books/las-estrellas-son-negras-arnoldo-palacios.md",
+		"/home/febres/Dev/AALT/_books/fabulas-tamalameque-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/fabulas-tamalameque-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/detras-del-rostro-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/detras-del-rostro-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/chango-zapata-olivella-2.md",
+		"/home/febres/Dev/AALT/_books/chango-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/calle-diez-zapata-olivella.md",
+		"/home/febres/Dev/AALT/_books/amujeres-poetas-afrocolombianas.md",
+		"/home/febres/Dev/AALT/_books/apoetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/antologia-poetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/cantos-populares-candelario-obeso-2.md",
+		"/home/febres/Dev/AALT/_books/aoetas-negros-uruguayos.md",
+		"/home/febres/Dev/AALT/_books/autobiografia-esclavo-juan-francisco-manzano.md",
+		"/home/febres/Dev/AALT/_site/index.html",
+		"/home/febres/Dev/AALT/_includes/lista-recomendadas.html",
+		"/home/febres/Dev/AALT/_layouts/index.html",
+		"/home/febres/Dev/AALT/_books/antologia-mujeres-poetas-afrocolombianas.md",
+		"/home/febres/Dev/AALT/_books/cuentos-andinos-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/memoria-y-resistencia-cristina-rodriguez.md",
+		"/home/febres/Dev/AALT/_books/cantos-populares-candelario-obeso.md",
+		"/home/febres/Dev/AALT/_books/cien-carceles-amor.md",
+		"/home/febres/Dev/AALT/_books/espejo-ventana-adalberto-ortiz.md",
+		"/home/febres/Dev/AALT/_books/familia-unzuaza-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/impresiones-literarias-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/nochebuena-negra-juan-pablo-sojo.md",
+		"/home/febres/Dev/AALT/_books/nuevos-cuentos-andinos-enrique-lopez-albujar.md",
+		"/home/febres/Dev/AALT/_books/obra-poetica-pedro-blas.md",
+		"/home/febres/Dev/AALT/_books/obra-poetica-romulo-bustos-aguirre.md",
+		"/home/febres/Dev/AALT/_books/peesias-completas-placido.md",
+		"/home/febres/Dev/AALT/_books/pregon-marimorena-virginia-brindis.md",
+		"/home/febres/Dev/AALT/_books/sofia-martin-morua-delgado.md",
+		"/home/febres/Dev/AALT/_books/um-defeito-de-cor-ana-maria-goncalves.md",
+		"/home/febres/Dev/morel_from_scractch/_layouts/publisher.html",
+		"/home/febres/Dev/morel_from_scractch/_posts/2021-10-04-post.md",
+		"/home/febres/Dev/morel_from_scractch/_books/aborigenes-costa-rica.md",
+		"/home/febres/Dev/morel_from_scractch/_config.yml",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-editor.html",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-periodo.html",
+		"/home/febres/Dev/morel_from_scractch/_books/abuela-mercedes-moscoso.md",
+		"/home/febres/Dev/morel_from_scractch/_periods/siglo-xx.md",
+		"/home/febres/Dev/morel_from_scractch/_periods/siglo-xix.md",
+		"/home/febres/Dev/morel_from_scractch/_periods/colonial.md",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-ciudad.html",
+		"/home/febres/Dev/morel_from_scractch/_layouts/periodo.html",
+		"/home/febres/Dev/morel_from_scractch/_layouts/city.html",
+		"/home/febres/Dev/morel_from_scractch/_repositories/european-libraries.md",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-repositorio.html",
+		"/home/febres/Dev/morel_from_scractch/_layouts/book.html",
+		"/home/febres/Dev/morel_from_scractch/_books/Obras-completas-tomo-ii.md",
+		"/home/febres/Dev/morel_from_scractch/_layouts/repository.html",
+		"/home/febres/Dev/morel_from_scractch/_layouts/author.html",
+		"/home/febres/Dev/morel_from_scractch/_layouts/repository_model.html",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-autora.html",
+		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-libro.html",
+		"/home/febres/Dev/morel_from_scractch/_authors/abel-alarcon.md",
+		"/home/febres/Dev/morel_from_scractch/_authors/agustina-andrade.md",
+		"/home/febres/Dev/morel_from_scractch/_layouts/page.html",
+		"/home/febres/Dev/morel_from_scractch/css/main.css",
+		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-29-post.md",
+		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-30-post.md",
+		"/home/febres/Dev/morel_from_scractch/_layouts/book_model.html",
+		"/home/febres/Dev/morel_from_scractch/_books/alcides-arguedas-vida-criolla.md"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 403.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<current file>,<open folders>",
+			"<current file>,/home/febres/Dev/morel_from_scractch/_books,/home/febres/Dev/morel_from_scractch/_posts,/home/febres/Dev/morel_from_scractch/_books",
+			"<current file>,/home/febres/Dev/morel_from_scractch/_books,/home/febres/Dev/morel_from_scractch/_posts",
+			"<current file>,/home/febres/Dev/morel_from_scractch/_books",
+			"<current file>",
+			"/home/febres/Dev/morel/_books,<project filters>,/home/febres/Dev/morel_theme/css",
+			"/home/febres/Dev/morel/_books,<project filters>",
+			"/home/febres/Dev/morel/_repositories",
+			"/home/febres/Dev/morel/_books",
+			"/home/febres/Dev/morel",
+			"<open folders>",
+			"<open files>",
+			"",
+			"/home/febres/Dev/morel/_books"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"feature: true",
+			"{% include JB/setup %}",
+			"{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}",
+			".index",
+			"index",
+			"incl",
+			"featured",
+			"main.css.map",
+			"jb",
+			"{% include JB/setup %}",
+			"row",
+			"../",
+			"img",
+			"../",
+			"js",
+			"../",
+			"ima",
+			"img",
+			"css",
+			"js/",
+			"css/",
+			"img/",
+			"../img/",
+			"img/",
+			"sombra",
+			"image",
+			"hr",
+			"fa",
+			"obra",
+			"obras",
+			"dev_git",
+			"reset",
+			"post",
+			"locura",
+			"team",
+			"repositories",
+			"1em",
+			"Ciudad de México  ",
+			"Ciudad de México ",
+			"México ",
+			", D. F.",
+			", D.F.",
+			"ciudad: Ciudad de México, D.F.",
+			"ciudad: ciudad de méxico",
+			"ciudad: ciudad de méxico, D.F.",
+			"ciudad: ciudad de panamá",
+			"ciudad: sonsonate",
+			"ciudad: uruguay",
+			"ciudad: puerto rico",
+			"ciudad: panamá",
+			"ciudad: méxico",
+			"méxico",
+			"guatemala",
+			"team-prof",
+			"our-team",
+			"for",
+			"header/style/2",
+			"author1",
+			"morel",
+			"big",
+			"bigde",
+			"new"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"{{ BASE_PATH }}/",
+			"../css/",
+			"../img/",
+			"repository",
+			"Ciudad de México",
+			"México",
+			" ",
+			"ciudad: Ciudad de México",
+			"ciudad: Ciudad de Panamá",
+			"ciudad: Sonsonate, El Salvador",
+			"ciudad: Montevideo",
+			"ciudad: San Juan de Puerto Rico",
+			"ciudad: ciudad de panamá",
+			"ciudad: ciudad de méxico"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aalt.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 665.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
