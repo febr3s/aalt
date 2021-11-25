@@ -29,9 +29,9 @@ table {
   border-spacing: 0; }
 
 :root {
-  --color-1: #2a3425;
-  --color-2: #d4695c;
-  --color-3: #86a27b;
+  --color-1: #000000;
+  --color-2: #e31b23;
+  --color-3: #00853f;
   --background: #F9F9F9;
   --fondo: rgba(235, 235, 235, 0.7) ; }
 
@@ -270,7 +270,8 @@ label:hover.button, button:hover {
   padding-right: 15.1%; }
 
 .ficha-extract {
-  padding-left: 15.1%; }
+  padding-left: 15.1%;
+  padding-bottom: 6%; }
 
 .proyecto-tienda ul {
   line-height: 1;
@@ -292,6 +293,8 @@ label:hover.button, button:hover {
   margin-bottom: 9.125rem;
   margin-top: 2rem;
   background-color: var(--background); }
+
+
 
 .deictico-demo:before {
   content: "más abajo"; }
@@ -323,7 +326,7 @@ label:hover.button, button:hover {
     padding: 5.750rem 6% 2.250rem 15.1% !important; }
 
   .ficha-extract {
-    padding: 0px 6% 0 15.1% !important; }
+    padding: 0px 6% 15.1% 15.1% !important; }
 
   .portada {
     padding-left: 0; }
@@ -333,7 +336,8 @@ label:hover.button, button:hover {
 /*solo m*/
 @media screen and (min-width: 601px) and (max-width: 797px) {
   .portada {
-    max-width: 50%; }
+    max-width: 60%;
+    padding-bottom: 15.1%; }
 
   .header {
     height: 70vh; } }
@@ -630,6 +634,17 @@ input[type=search]:focus {
 
 .footer {
   font-weight: 400; }
+
+.about {
+  max-width: 1227px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+  margin-top: 2rem;
+  background-color: var(--background);
+}
 
 @media screen and (min-width: 799px) {
   .footer-col {
@@ -1098,7 +1113,7 @@ color: var(--background);
 
 
 .overlay {
-  background-color: rgba(42, 52, 37, 0.88);
+  background-color: rgba(0, 0, 0, 0.88);
 }
 
 /* footer */

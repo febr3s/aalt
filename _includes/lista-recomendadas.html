@@ -1,10 +1,12 @@
   <!--lista 1 -->
         <div class="row obras">
-            <h2 class="index">Recomendadas</h2>
+            <h2 class="index">Otras obras recomendadas</h2>
         </div>
         <div class="row">
             <!--LOOP DE LISTA 1-->
             {% for book in site.books %}
+            {% if book.descarga == false %}
+
              <div class="basis">
                 <div class="container">
                     <a href="{{ BASE_PATH }}{{ book.url }}"><img src="{{ BASE_PATH }}/img/{{ book.img }}" alt="{{ book.title }}" class="image sombra"></a>
@@ -16,7 +18,7 @@
                                 <i class="fa fa-eye see-and-download morel"></i>
                             </a>
                             <i class="fa fa-download clear"></i>
-                            <a heref="{{ book.descarga }}">
+                            <a href="{{ book.descarga }}">
                                 <i class="fa fa-download see-and-download morel"></i>
                             </a>
                         </div>
@@ -27,7 +29,7 @@
                     <div class="autor">{{ book.author }}{% if book.author2 %}, {{ book.author2 }}{% endif %}{% if book.author3 %}, {{ book.author3 }}{% endif %}</div>
                 </div>
             </div>
-            
+            {% endif %}
             {% endfor %}
             <!-- MÁS OBRAS -->
             <div class="basis masobras">

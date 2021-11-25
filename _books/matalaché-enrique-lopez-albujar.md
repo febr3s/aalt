@@ -1,14 +1,15 @@
 ---
 title: Matalaché
 layout: book
-editorial: 
-ciudad: 
-edicion: 
-year: 
+editorial: Talleres del Tiempo
+ciudad: Lima
+edicion: 1928
+year: 1928
 author: "Enrique López Albújar"
 nacionalidad: "Perú"
-repositorio: "Biblioteca Virtual Agustinos"
-repurl: https://biblioteca.agustinos.pe/opac_css/
+repositorio1: "Biblioteca Virtual Agustinos"
+repositorio2: "Epub Libre"
+repurl: epublibre.org
 img: enrique-lopez-albujar-mataleche.jpg
 descarga: https://ia601409.us.archive.org/10/items/matalache/Matalach%C3%A9.pdf
 biblioteca: 

@@ -7,7 +7,7 @@ edicion: 1986
 year: 1924
 author: "Enrique López Albújar"
 nacionalidad: "Perú"
-repositorio1: "Epub Libre"
+repositorio: "Epub Libre"
 repositorio2: "Biblioteca Virtual Agustinos"
 repurl: https://biblioteca.agustinos.pe/opac_css/
 img: enrique-lopez-albujar-cuentos-andinos.jpg

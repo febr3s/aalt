@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-bottom"
+			],
+			[
 				"nacion",
 				"nacionalidad_desconocida"
 			],
@@ -73,22 +77,42 @@
 	"expanded_folders":
 	[
 		"/home/febres/Dev/AALT",
+		"/home/febres/Dev/AALT/_authors",
 		"/home/febres/Dev/AALT/_includes",
 		"/home/febres/Dev/AALT/_layouts",
-		"/home/febres/Dev/AALT/_sass"
+		"/home/febres/Dev/AALT/_products"
 	],
 	"file_history":
 	[
-		"/home/febres/Dev/AALT/_config.yml",
+		"/home/febres/Dev/AALT/_includes/lista-descargables.html",
+		"/home/febres/Dev/AALT/_layouts/index.html",
+		"/home/febres/Dev/AALT/_layouts/obras.html",
+		"/home/febres/Dev/AALT/obras.md",
+		"/home/febres/Dev/AALT/autoras.md",
+		"/home/febres/Dev/AALT/_includes/lista-recomendadas.html",
+		"/home/febres/Dev/AALT/_includes/lista-obras.html",
 		"/home/febres/Dev/AALT/_includes/nav-bar.html",
+		"/home/febres/Dev/AALT/index.html",
+		"/home/febres/Dev/AALT/_includes/lista-autoras.html",
+		"/home/febres/Dev/AALT/about.md",
+		"/home/febres/Dev/AALT/_includes/promotion.html",
+		"/home/febres/Dev/AALT/_layouts/page.html",
+		"/home/febres/Dev/AALT/css/main.css",
+		"/home/febres/Dev/AALT/_layouts/book.html",
+		"/home/febres/Dev/AALT/_config.yml",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-libro.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-periodo.html",
+		"/home/febres/Dev/AALT/_includes/related.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-ciudad.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-editorial.html",
+		"/home/febres/Dev/AALT/_includes/lista-relacionadas-repositorio.html",
+		"/home/febres/Dev/AALT/_layouts/default.html",
 		"/home/febres/Dev/AALT/_posts/2021-10-08-post.md",
 		"/home/febres/Dev/AALT/css/styles.scss",
 		"/home/febres/Dev/AALT/_sass/main.scss",
-		"/home/febres/Dev/AALT/_layouts/default.html",
 		"/home/febres/Dev/AALT/_includes/nav-bar-2.html",
 		"/home/febres/Dev/AALT/_data/navigation.yml",
-		"/home/febres/Dev/AALT/_layouts/book.html",
-		"/home/febres/Dev/AALT/_includes/lista-relacionadas-autora.html",
 		"/home/febres/Dev/AALT/_authors/debug.md",
 		"/home/febres/Dev/AALT/_includes/author_list.html",
 		"/home/febres/Dev/AALT/debug.html",
@@ -159,8 +183,6 @@
 		"/home/febres/Dev/AALT/_books/aoetas-negros-uruguayos.md",
 		"/home/febres/Dev/AALT/_books/autobiografia-esclavo-juan-francisco-manzano.md",
 		"/home/febres/Dev/AALT/_site/index.html",
-		"/home/febres/Dev/AALT/_includes/lista-recomendadas.html",
-		"/home/febres/Dev/AALT/_layouts/index.html",
 		"/home/febres/Dev/AALT/_books/antologia-mujeres-poetas-afrocolombianas.md",
 		"/home/febres/Dev/AALT/_books/cuentos-andinos-enrique-lopez-albujar.md",
 		"/home/febres/Dev/AALT/_books/memoria-y-resistencia-cristina-rodriguez.md",
@@ -189,34 +211,19 @@
 		"/home/febres/Dev/morel_from_scractch/_periods/colonial.md",
 		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-ciudad.html",
 		"/home/febres/Dev/morel_from_scractch/_layouts/periodo.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/city.html",
-		"/home/febres/Dev/morel_from_scractch/_repositories/european-libraries.md",
-		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-repositorio.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/book.html",
-		"/home/febres/Dev/morel_from_scractch/_books/Obras-completas-tomo-ii.md",
-		"/home/febres/Dev/morel_from_scractch/_layouts/repository.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/author.html",
-		"/home/febres/Dev/morel_from_scractch/_layouts/repository_model.html",
-		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-autora.html",
-		"/home/febres/Dev/morel_from_scractch/_includes/lista-relacionadas-libro.html",
-		"/home/febres/Dev/morel_from_scractch/_authors/abel-alarcon.md",
-		"/home/febres/Dev/morel_from_scractch/_authors/agustina-andrade.md",
-		"/home/febres/Dev/morel_from_scractch/_layouts/page.html",
-		"/home/febres/Dev/morel_from_scractch/css/main.css",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-29-post.md",
-		"/home/febres/Dev/morel_from_scractch/_posts/2021-9-30-post.md",
-		"/home/febres/Dev/morel_from_scractch/_layouts/book_model.html",
-		"/home/febres/Dev/morel_from_scractch/_books/alcides-arguedas-vida-criolla.md"
+		"/home/febres/Dev/morel_from_scractch/_layouts/city.html"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
 		"height": 403.0,
 		"where_history":
 		[
+			"/home/febres/Dev/AALT/_includes",
+			"/home/febres/Dev/AALT/_layouts",
 			"<open folders>",
 			"<current file>,<open folders>",
 			"<current file>,/home/febres/Dev/morel_from_scractch/_books,/home/febres/Dev/morel_from_scractch/_posts,/home/febres/Dev/morel_from_scractch/_books",
@@ -239,6 +246,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ficha-extract",
+			"en MOREL",
+			"overla",
+			"fa ",
 			"feature: true",
 			"{% include JB/setup %}",
 			"{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}\n{% include JB/setup %}",
@@ -308,6 +319,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"en {{ site.title }}",
 			" ",
 			"{{ BASE_PATH }}/",
 			"../css/",

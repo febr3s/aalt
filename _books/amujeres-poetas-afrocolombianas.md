@@ -42,6 +42,7 @@ descarga: https://ia601403.us.archive.org/34/items/antologia-mujeres-poetas-afro
 biblioteca: 
 periodo: "Siglo XX"
 feature:
+antology: true
 ---
 Tocá ese tambor
 

@@ -10,9 +10,9 @@
             <input type="checkbox" id="menu-toggle" />
             <label for="menu-toggle" class="label-toggle"></label>
             <ul>
-                  {% for item in site.data.navigation %}
-
-                <li><a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a></li>
+            {% assign mypages = site.pages | sort: "order" %}
+                {% for page in mypages %}
+                <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
               {% endfor %}
             </ul>
         </nav>
